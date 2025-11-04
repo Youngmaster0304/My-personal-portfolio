@@ -1,2 +1,19 @@
-# My-personal-portfolio
-Welcome to my Personal Portfolio Website 👋 This site is where I showcase my projects, skills, and experiences — a reflection of my journey as a developer and creator.  🔧 Built With: [Tech stack] 🎯 Goal: To create a simple yet elegant platform to highlight my work and connect with like-minded people.
+# @babel/compat-data
+
+> The compat-data to determine required Babel plugins
+
+See our website [@babel/compat-data](https://babeljs.io/docs/babel-compat-data) for more information.
+
+## Install
+
+Using npm:
+
+```sh
+npm install --save @babel/compat-data
+```
+
+or using yarn:
+
+```sh
+yarn add @babel/compat-data
+```
