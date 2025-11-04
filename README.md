@@ -1,19 +1,19 @@
-# @babel/helper-globals
+# @babel/helper-plugin-utils
 
-> A collection of JavaScript globals for Babel internal usage
+> General utilities for plugins to use
 
-See our website [@babel/helper-globals](https://babeljs.io/docs/babel-helper-globals) for more information.
+See our website [@babel/helper-plugin-utils](https://babeljs.io/docs/babel-helper-plugin-utils) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save @babel/helper-globals
+npm install --save @babel/helper-plugin-utils
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/helper-globals
+yarn add @babel/helper-plugin-utils
 ```
